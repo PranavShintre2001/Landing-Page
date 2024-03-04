@@ -1,0 +1,183 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+#logo{
+    color:red;
+    font-size: larger;
+    font-weight: 400;
+    
+}
+button{
+    background-color: red;
+    color: white;
+}
+#navbar{
+
+    color:white;
+    background-color: black;
+    height: 60px;
+   
+}
+input{
+    margin-left: 30px;
+}
+a{
+    margin-top: 20px;
+margin-left: 200px;
+}
+a{
+  margin-top: 20px;
+margin-left: 200px;
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+#imgg{
+  height: 100%;
+  width: 100%;
+  opacity: 0.6;
+}
+.hello {
+  color: white;
+  position: absolute;
+  top:150px;
+  left: 400px;
+  font-size: x-large;
+}
+.email{
+  position: absolute;
+  padding: 10px;
+  top: 280px;
+  left: 600px;
+ 
+}
+#heyy{
+  font-size: large;
+  padding: 10px;
+    }
+#search{
+font-style: bold;
+font-weight:900;
+padding:10px;
+}
+#signin{
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+.hello1 {
+  position: absolute;
+  bottom: 170px;
+  right: 600px;
+}
+.container1{
+  position: absolute;
+  background-color:black;
+  top:350px;
+  left: 630px;
+height: 400px;
+width: 350px;  
+opacity: 0.7;
+box-shadow: black;
+}
+.signin{
+padding: 10px;
+margin-top: 20px;
+background-color:#D9DDDC;
+color: black;
+width: 73%;
+align-items: center;
+margin-right: 10px;
+}
+.password
+{
+margin-right: 17px;
+padding: 10px;
+margin-top: 20px;
+background-color:#D9DDDC;
+color: black;
+width: 73%;
+}
+#signinbutton{
+background-color: red;
+padding: 10px;
+margin-top: 20px;
+margin-left: 30px;
+width: 80%;
+margin-right: 20px;
+
+}
+
+.pass{
+display: flex;
+justify-content: space-between;
+}
+
+.headingtwo{
+  color: white;
+   background-color: black;
+  height: 500px;
+  width: 100%;
+  opacity: 1.2;
+}
+#ironman{
+ float: right;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ margin-right: 100px;
+}
+p{
+  font-size: 70px;
+  margin-left: 100px;
+  padding-top: 100px;
+
+}
+h3{
+  font-size: 30px;
+  margin-left: 100px;
+  padding-top: 10px;
+}
+#cartoon{
+  float: left;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+ }
+ #TV{
+  float: right;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+ }
+ footer{
+  background-color: black;
+  color:white;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  align-content: center;
+align-items: center;
+text-decoration: none;
+ }
+ .footer-container,a{
+  color: white;
+ }
+
+ .footer-container{
+  text-align: center;
+  color: white;
+  padding-top: 40px;
+  text-decoration: none;
+
+
+ }
+
+
+
+
